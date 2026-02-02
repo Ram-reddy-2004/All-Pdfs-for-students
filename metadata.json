@@ -1,0 +1,7 @@
+{
+  "name": "All Notes",
+  "description": "A premium, minimalist academic resource platform for B.Tech students to access curated notes, previous year questions, and lab manuals across all departments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
